@@ -12,7 +12,7 @@ I am also really interested in coding art projects... interactive exhibitions, I
 
 - 🌱 I’m currently learning ...
 
-A bit of everything front-end but I would like to become more confident with React. I've recently moved from bitbucket to github and I'm aiming to do at least one commit a day, to 'greenify' my github profile and to visualise my learning journey. I have many saved code snippets and tutorials to try out, there is no time like the present to start emptying that bucket list.
+A bit of everything but I would like to become more confident with React. I've recently moved from bitbucket to github and I'm aiming to do at least one commit a day, to 'greenify' my github profile and to visualise my learning journey. I have many saved code snippets and tutorials to try out, there is no time like the present to start emptying that bucket list.
 
 I'm also learning a bit of Python as I volunteer at a school of digitial integration to entice 9 - 13 year olds into coding.
 
