@@ -9,12 +9,12 @@ Moving away from standard marketing websites and would love to gain more experie
 
 - 🌱 I’m currently learning ...
 
-A bit of everything, I've recently moved from bitbucket to github and keen to do at least one commit a day, to 'greenify' my github profile. 
+A bit of everything front-end but I would like to become more confident with React, I've recently moved from bitbucket to github and keen to do at least one commit a day, to 'greenify' my github profile. 
 So watch this space as I will attempt to use my profile as a bit of a playground going forward.
 
 - 💞️ I’m looking to collaborate on ...
 
-on React software development projects across devices. I have a lot to learn and I'm not lacking in enthusiasm. 
+React software development projects across devices. I have a lot to learn and I'm not lacking in enthusiasm. 
 I'm easy-going and conscientious... work well in a team and also solo.
 
 - 📫 How to reach me ...
