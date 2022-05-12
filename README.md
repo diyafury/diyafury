@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @diyafury
 
 I am a freelance front-end developer and I totally dabble in fullstack like most of us. 
-I do mostly WordPress websites for a set of faitful clients but I have commercial experience in AngularJS and ReactJs web applications.
+I do mostly WordPress websites for a set of faithful clients but I also have commercial experience in AngularJS and ReactJs web applications.
 
 - 👀 I’m interested in ...
 
-Moving away from commercial websites and would love to gain more experience in software development with ReactJs, NodeJs, Express.
+Moving away from standard marketing websites and would love to gain more experience in software development with ReactJs, NodeJs, Express.
 
 - 🌱 I’m currently learning ...
 
