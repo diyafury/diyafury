@@ -12,20 +12,20 @@ I am also really interested in coding art projects... interactive exhibitions, I
 
 - 🌱 I’m currently learning ...
 
-A bit of everything but I would like to become more confident with React. I've recently moved from bitbucket to github and I'm aiming to do at least one commit a day, to 'greenify' my github profile and to visualise my learning journey. I have many saved code snippets and tutorials to try out, there is no time like the present to start emptying that bucket list.
+A bit of everything but I am doing more real world project training with React at the moment. I am also collaborating with a JavaScript course provider by proof-reading and ammending course material, to help out but also to cement my knowledge. I've recently moved from bitbucket to github and I'm aiming to do at least one commit a day, to 'greenify' my github profile and to visualise my learning journey.
 
-I'm also learning a bit of Python as I volunteer at a school of digitial integration to entice 9 - 13 year olds into coding.
+I'm also learning a bit of Python as I volunteer at a school of digitial integration to entice 9 - 13 year olds into coding. I am interested in the machine learning and imaging analysis capabilitites of Python.
 
 - 💞️ I’m looking to collaborate on ...
 
-React software development projects across devices. I have a lot to learn and I'm not lacking in enthusiasm. 
+React software development projects and native mobile development. I have a lot to learn and I'm not lacking in enthusiasm. 
 I'm easy-going and conscientious... work well in a team and also solo.
 
 Interactive art projects... even being a fly-on-the-wall, cups-of-tea-maker, a-cable-or-a-socket-finder, general-dogs-body.... just let me be involved!
 
 - 📫 How to reach me ...
 
-diyafury+work@gmail.com
+diyafury[plus]work[at]gmail[dot]com
 
 <!---
 diyafury/diyafury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
