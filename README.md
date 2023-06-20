@@ -2,7 +2,8 @@
 
 I am a freelance front-end developer and I totally dabble in fullstack like most of us. I am an expert in CSS/HTML5/Javascript and a myriad of frameworks/libraries in this regard. I have years of agency experience and have been a Team Lead in the past.
 
-Currently the universe and my set of faithful clients have me make peace with Wordpress mostly but I also have commercial experience in AngularJS and ReactJs web applications.
+Currently I'm working in ReactJS and Wordpress mostly but I also have commercial experience in AngularJS and a myriad other front-end technologies, libraries and framework. 
+The nature of my position is learning on the job. The last few months I have been largely working in React on a peice of CMS software ads well as smaller bespoke kiosk applications togeter with a team of developers.
 
 - 👀 I’m interested in ...
 
@@ -12,13 +13,11 @@ I am also really interested in coding art projects... interactive exhibitions, I
 
 - 🌱 I’m currently learning ...
 
-A bit of everything but I am doing more real world project training with React at the moment. I am also collaborating with a JavaScript course provider by proof-reading and ammending course material, to help out but also to cement my knowledge. I've recently moved from bitbucket to github and I'm aiming to do at least one commit a day, to 'greenify' my github profile and to visualise my learning journey.
-
-I'm also learning a bit of Python as I volunteer at a school of digitial integration to entice 9 - 13 year olds into coding. I am interested in the machine learning and imaging analysis capabilitites of Python.
+A bit of everything but I am doing more real world project training with React at the moment. I have just completed my 200h yoga teacher training and will be continuing on to my 300h course.
 
 - 💞️ I’m looking to collaborate on ...
 
-React software development projects and native mobile development. I have a lot to learn and I'm not lacking in enthusiasm. 
+React software development projects and native mobile development. There's always lot to learn and I'm not lacking in enthusiasm. 
 I'm easy-going and conscientious... work well in a team and also solo.
 
 Interactive art projects... even being a fly-on-the-wall, cups-of-tea-maker, a-cable-or-a-socket-finder, general-dogs-body.... just let me be involved!
